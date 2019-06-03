@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README #
 
 Leap Bootstrap Theme by Medium Rare
